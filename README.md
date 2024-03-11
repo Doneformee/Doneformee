@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=ASP.NET%20Core%20Developer&reversal=false&fontSize=35&textBg=false&fontColor=f08080&fontAlign=50)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Doneformee)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Doneformee/Doneformee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
