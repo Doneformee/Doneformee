@@ -5,7 +5,7 @@
 <table>
   <colgroup>
     <col />
-    <col />
+    <col width="500"/>
   </colgroup>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=Doneformee"></td>
