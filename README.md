@@ -2,7 +2,9 @@
 
 ---
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Doneformee" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doneformee&layout=compact" width="48%">
-</div>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Doneformee"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doneformee&layout=compact" width="48%"></td>
+  </tr>
+</table>
