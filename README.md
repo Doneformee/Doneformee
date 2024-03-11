@@ -5,10 +5,10 @@
 <table>
   <colgroup>
     <col />
-    <col width="500"/>
+    <col />
   </colgroup>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=Doneformee"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doneformee&layout=compact"></td>  
+    <td style="padding-left: 30px;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doneformee&layout=compact"></td>  
   </tr>
 </table>
