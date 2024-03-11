@@ -2,7 +2,7 @@
 
 ---
 
-<div align="center">
+<div>
   <div style="float: left;">
     <img src="https://github-readme-stats.vercel.app/api?username=Doneformee" width="45%">
   </div>
