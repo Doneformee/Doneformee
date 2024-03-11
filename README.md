@@ -9,6 +9,6 @@
   </colgroup>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=Doneformee"></td>
-    <td style="padding-left: 30px;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doneformee&layout=compact"></td>  
+    <td style="padding-left: 310px;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doneformee&layout=compact"></td>  
   </tr>
 </table>
