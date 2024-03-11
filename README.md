@@ -3,6 +3,6 @@
 ---
 <div>
   <span><img src="https://github-readme-stats.vercel.app/api?username=Doneformee"></span>
-  <span style="float: right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doneformee&layout=compact"></span>
+  <span style="margin-left: 50px;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doneformee&layout=compact"></span>
 </div>
 
