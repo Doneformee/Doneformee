@@ -4,8 +4,8 @@
 
 <table>
   <colgroup>
-    <col />
-    <col />
+    <col width="450"/>
+    <col width="450"/>
   </colgroup>
   <tr>
     <div style="float: left;">
