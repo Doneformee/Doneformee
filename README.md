@@ -3,5 +3,4 @@
 ---
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=Doneformee">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doneformee&layout=compact" style="margin-left: 150px;">
 </div>
