@@ -4,15 +4,11 @@
 
 <table>
   <colgroup>
-    <col width="450"/>
-    <col width="450"/>
+    <col />
+    <col />
   </colgroup>
   <tr>
-    <div style="float: left;">
-      <td><img src="https://github-readme-stats.vercel.app/api?username=Doneformee"></td>
-    </div>
-    <div style="float: right;">
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doneformee&layout=compact"></td>  
-    </div>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Doneformee"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doneformee&layout=compact"></td>  
   </tr>
 </table>
