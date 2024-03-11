@@ -3,10 +3,10 @@
 ---
 
 <div>
-  <div style="float: left;">
+  <span style="float: left;">
     <img src="https://github-readme-stats.vercel.app/api?username=Doneformee" width="45%">
-  </div>
-  <div style="float: right">
+  </span>
+  <span style="float: right">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doneformee&layout=compact" width="45%">
-  </div>
+  </span>
 </div>
