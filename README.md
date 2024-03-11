@@ -2,5 +2,5 @@
 
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Doneformee)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Doneformee&layout=compact)(https://github.com/Doneformee/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Doneformee&layout=compact)](https://github.com/Doneformee/github-readme-stats)
 
